@@ -1,4 +1,4 @@
-# Dress-Code Virtual Try-On Dataset
+# Dress Code Virtual Try-On Dataset
 
 This is the official dataset of the publication:
 
