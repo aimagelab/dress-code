@@ -1,6 +1,6 @@
 # Dress Code Virtual Try-On Dataset
 
-This is the official dataset of the publication:
+This repository presents the virtual try-on dataset proposed in:
 
 *D. Morelli, M. Fincato, M. Cornia, F. Landi, F. Cesari, R. Cucchiara* </br>
 **Dress Code: High-Resolution Multi-Category Virtual Try-On** </br>
