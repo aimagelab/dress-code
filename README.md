@@ -6,7 +6,9 @@ This is the official dataset of the publication:
 **Dress Code: High-Resolution Multi-Category Virtual Try-On** </br>
 *Under Review*
 
-**[Paper]  [[Dataset](https://forms.gle/72Bpeh48P7zQimin7)]** 
+**[Paper]** **[[Dataset Request Form](https://forms.gle/72Bpeh48P7zQimin7)]** 
+
+By making any use of the Dress Code Dataset, you accept and agree to comply with the terms and conditions reported [here](https://github.com/aimagelab/dress-code/blob/main/LICENCE). 
 
 <p align="center">
     <img src="images/dressCodePrev.gif" style="max-width: 800px; width: 80%"/>
@@ -180,3 +182,6 @@ We also extracted dense label and UV mapping from all the model images using [De
 
 [9] Yang, et al. "Towards Photo-Realistic Virtual Try-On by Adaptively Generating-Preserving Image Content." CVPR, 2020.
 
+## Contact
+
+If you have any general doubt about our dataset, please use the [public issues section](https://github.com/aimagelab/dress-code/issues) on this github repo. Alternatively, drop us an e-mail at davide.morelli [at] unimore.it or marcella.cornia [at] unimore.it.
