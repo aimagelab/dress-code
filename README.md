@@ -31,14 +31,14 @@ The dataset contains more than 50k high resolution model clothing images pairs d
   - lower body
   - dresses
 - 1024 x 768 image resolution
-- additional infos
+- additional info
   - keypoints
-  - label_maps
   - skeletons
-  - DensePose
+  - human label maps
+  - human dense poses
 
 ### Additional Info
-Along with model and garment image pair, we provide also the keypoints, skeleton, image label map, and densePose. 
+Along with model and garment image pair, we provide also the keypoints, skeleton, human label map, and dense pose. 
 
 <p align="center">
   <img src="images/addittional_infos.png" style="max-width: 800px; width: 80%"/>
@@ -46,14 +46,14 @@ Along with model and garment image pair, we provide also the keypoints, skeleton
 
 <details><summary>More info</summary>
 
-### Human Joints
+### Keypoints
 For all image pairs of the dataset, we stored the joint coordinates of human poses.
 In particular, we used [OpenPose](https://github.com/Hzzone/pytorch-openpose) [1] to extract 18 keypoints for each human body. 
 
 For each image, we provided a json file containing a dictionary with the `keypoints` key.
 The value of this key is a list of 18 elements, representing the joints of the human body. Each element is a list of 4 values, where the first two indicate the coordinates on the x and y axis respectively.
 
-### Human Skeletons
+### Skeletons
 Skeletons are RGB images obtained connecting keypoints with lines.
 
 ### Human Label Map
@@ -86,7 +86,7 @@ Categories are mapped as follows:
 ```
 
 
-### DensePose
+### Human Dense Pose
 
 We also extracted dense label and UV mapping from all the model images using [DensePose](https://github.com/facebookresearch/detectron2/tree/main/projects/DensePose) [3].
 
