@@ -119,7 +119,7 @@ We also extracted dense label and UV mapping from all the model images using [De
     </tr>
   <!-- ROW: CP VTON' -->
     <tr>
-      <td align="center">CP-VTON' [4]</td>
+      <td align="center">CP-VTON* [4]</td>
       <td align="center">0.874</td>
       <td align="center">18.99</td>
       <td align="center">1.117</td>
@@ -170,7 +170,7 @@ We also extracted dense label and UV mapping from all the model images using [De
 
 [3] Güler, et al. "Densepose: Dense human pose estimation in the wild." CVPR, 2018.
 
-[4] Simonyan and Zisserman. "Very deep convolutional networks for large-scale image recognition." ICLR, 2015.
+[4] Wang, et al. "Toward Characteristic-Preserving Image-based Virtual Try-On Network." ECCV, 2018.
 
 [5] Minar, et al. "CP-VTON+: Clothing Shape and Texture Preserving Image-Based Virtual Try-On." CVPR Workshops, 2020.
 
