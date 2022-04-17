@@ -1,4 +1,4 @@
-# Dress Code Virtual Try-On Dataset
+# Dress Code Dataset
 
 This repository presents the virtual try-on dataset proposed in:
 
