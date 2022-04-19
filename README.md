@@ -5,7 +5,7 @@ This repository presents the virtual try-on dataset proposed in:
 *D. Morelli, M. Fincato, M. Cornia, F. Landi, F. Cesari, R. Cucchiara* </br>
 **Dress Code: High-Resolution Multi-Category Virtual Try-On** </br>
 
-**[Paper]** **[[Dataset Request Form](https://forms.gle/72Bpeh48P7zQimin7)]** 
+**[Paper]** **[[Dataset Request Form](https://forms.gle/72Bpeh48P7zQimin7)]** **[[Try-On Demo](https://ailb-web.ing.unimore.it/dress-code)]**
 
 By making any use of the Dress Code Dataset, you accept and agree to comply with the terms and conditions reported [here](https://github.com/aimagelab/dress-code/blob/main/LICENCE). 
 
