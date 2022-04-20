@@ -5,9 +5,20 @@ This repository presents the virtual try-on dataset proposed in:
 *D. Morelli, M. Fincato, M. Cornia, F. Landi, F. Cesari, R. Cucchiara* </br>
 **Dress Code: High-Resolution Multi-Category Virtual Try-On** </br>
 
-**[Paper]** **[[Dataset Request Form](https://forms.gle/72Bpeh48P7zQimin7)]** **[[Try-On Demo](https://ailb-web.ing.unimore.it/dress-code)]**
+**[[Paper](https://arxiv.org/abs/2204.08532)]** **[[Dataset Request Form](https://forms.gle/72Bpeh48P7zQimin7)]** **[[Try-On Demo](https://ailb-web.ing.unimore.it/dress-code)]**
 
 By making any use of the Dress Code Dataset, you accept and agree to comply with the terms and conditions reported [here](https://github.com/aimagelab/dress-code/blob/main/LICENCE). 
+
+Please cite with the following BibTeX:
+
+```
+@article{morelli2022dresscode,
+  title={{Dress Code: High-Resolution Multi-Category Virtual Try-On}},
+  author={Morelli, Davide and Fincato, Matteo and Cornia, Marcella and Landi, Federico and Cesari, Fabio and Cucchiara, Rita},
+  journal={arXiv preprint arXiv:2204.08532},
+  year={2022}
+}
+```
 
 <p align="center">
     <img src="images/dressCodePrev.gif" style="max-width: 800px; width: 80%"/>
