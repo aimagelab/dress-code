@@ -173,7 +173,7 @@ We also extracted dense label and UV mapping from all the model images using [De
 </table>
 
 ## Code
-Due to a firm collaboration, we cannot release code. However, t we supply an empty Pytorch project to load data.
+Due to a firm collaboration, we cannot release the code. However, we supply an empty Pytorch project to load data.
 ## References
 
 [1] Cao, et al. "OpenPose: Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields." IEEE TPAMI, 2019.
