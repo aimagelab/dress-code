@@ -12,10 +12,10 @@ By making any use of the Dress Code Dataset, you accept and agree to comply with
 Please cite with the following BibTeX:
 
 ```
-@article{morelli2022dresscode,
+@inproceedings{morelli2022dresscode,
   title={{Dress Code: High-Resolution Multi-Category Virtual Try-On}},
   author={Morelli, Davide and Fincato, Matteo and Cornia, Marcella and Landi, Federico and Cesari, Fabio and Cucchiara, Rita},
-  journal={arXiv preprint arXiv:2204.08532},
+  booktitle={Proceedings of the European Conference on Computer Vision},
   year={2022}
 }
 ```
