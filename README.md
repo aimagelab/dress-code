@@ -13,6 +13,10 @@ This repository presents the virtual try-on dataset proposed in:
 - When filling the dataset request form, non-institutional emails (e.g. gmail.com) are not allowed.
 - The signed release agreement form is mandatory (see the dataset request form for more details). Incomplete or unsigned release agreement form are not accepted and will not receive a response. Typed signature are not allowed.
 
+**Requests are manually validated on a weekly basis. If you do not receive a response, your request does not meet the outlined requirements.**
+
+<hr>
+
 Please cite with the following BibTeX:
 
 ```
