@@ -10,8 +10,8 @@ This repository presents the virtual try-on dataset proposed in:
 **IMPORTANT!**
 - By making any use of the Dress Code Dataset, you accept and agree to comply with the terms and conditions reported [here](https://github.com/aimagelab/dress-code/blob/main/LICENCE).
 - The dataset will not be released to private companies. 
-- When filling the dataset request form, non-institutional emails (e.g. gmail.com) are not allowed.
-- The signed release agreement form is mandatory (see the dataset request form for more details). Incomplete or unsigned release agreement form are not accepted and will not receive a response. Typed signature are not allowed.
+- When filling the dataset request form, non-institutional emails (e.g. gmail.com, qq.com, etc.) are not allowed.
+- The signed release agreement form is mandatory (see the dataset request form for more details). Incomplete or unsigned release agreement forms are not accepted and will not receive a response. Typed signatures are not allowed.
 
 **Requests are manually validated on a weekly basis. If you do not receive a response, your request does not meet the outlined requirements.**
 
